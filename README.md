@@ -38,10 +38,10 @@ A machine learning model that can predict short-term stock price trends using Li
 ## 📸 Visuals
 
 ### Closing Price  
-![Close](Visualization/AMZN_close_price.png)
+![Close](Visualization/AMZN_Close_price.png)
 
 ### SMA20 + SMA50  
-![SMAs](Visualization/AMZN_Price_with_SMAs.png)
+![SMAs](Visualization/AMZN_Price_With_SMAs.png)
 
 ### Actual vs Predicted  
 ![Predicted](Visualization/actual_vs_predicted.png)
