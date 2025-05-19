@@ -5,7 +5,7 @@ I made a Stock Price Prediction Model using Stock Price Data available in Kaggle
 ---
 
 ## 📊 Dataset
-- **Source**: [Stock Market Dataset]([https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset))
+- **Source**: [Stock Market Dataset]([https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset])
 - Used historical stock data for **AMZN (Amazon.com Inc.)**
 
 ---
